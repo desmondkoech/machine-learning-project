@@ -2,3 +2,7 @@
 
 This project demonstrates an end-to-end supervised learning workflow: data loading, exploratory analysis, model training (scikit-learn), evaluation, and a saved model. Include examples suitable for interview discussion and portfolio review.
 
+
+## Machine Learning Project
+Small example showing linear regression with sample CSV data. Run with the included notebook or python -c examples.
+
